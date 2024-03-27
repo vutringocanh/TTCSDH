@@ -1,0 +1,41 @@
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\SieuThiMiniXmart.exe.config
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\SieuThiMiniXmart.exe
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\SieuThiMiniXmart.pdb
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.MainAdmin.resources
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Properties.Resources.resources
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.exe
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.pdb
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.CopyComplete
+C:\Users\Admin\Documents\Thuc Tap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Login.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\SieuThiMiniXmart.exe.config
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\SieuThiMiniXmart.exe
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\SieuThiMiniXmart.pdb
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Login.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.MainAdmin.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Properties.Resources.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.CopyComplete
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.exe
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.pdb
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Doimatkhau.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.MainNhanVien.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Trogiup.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Suatk.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Themtk.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Xoatk.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Thongtinquanly.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Thongtinnhanvien.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Giaodiennhanvien.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Giaodienquanly.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Quanlynhanvien.resources
+C:\Users\Admin\Documents\ThucTap\SieuThiMiniXmart\SieuThiMiniXmart\obj\Debug\SieuThiMiniXmart.Calam.resources

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="xmartConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="xmartConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SieuThiMiniXmart.Properties.Settings.GlobalReference.Default.xmartConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tb_hoadonTableAdapter" GeneratorDataComponentClassName="tb_hoadonTableAdapter" Name="tb_hoadon" UserDataComponentName="tb_hoadonTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="xmartConnectionString (Settings)" DbObjectName="xmart.dbo.tb_hoadon" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT tb_hoadon.mahd, tb_hoadon.tenkh, tb_hoadon.tennl, tb_hoadon.ngaylap, tb_hoadon.makh, tb_hoadon.manv, SUM(tb_cthd.thanhtien) AS sumthanhtien FROM tb_hoadon INNER JOIN tb_cthd ON tb_hoadon.mahd = tb_cthd.mahd GROUP BY tb_hoadon.mahd, tb_hoadon.tenkh, tb_hoadon.tennl, tb_hoadon.ngaylap, tb_hoadon.makh, tb_hoadon.manv</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mahd" DataSetColumn="mahd" />
+              <Mapping SourceColumn="tenkh" DataSetColumn="tenkh" />
+              <Mapping SourceColumn="tennl" DataSetColumn="tennl" />
+              <Mapping SourceColumn="ngaylap" DataSetColumn="ngaylap" />
+              <Mapping SourceColumn="makh" DataSetColumn="makh" />
+              <Mapping SourceColumn="manv" DataSetColumn="manv" />
+              <Mapping SourceColumn="sumthanhtien" DataSetColumn="sumthanhtien" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tb_hoadon" msprop:Generator_RowEvHandlerName="tb_hoadonRowChangeEventHandler" msprop:Generator_RowDeletedName="tb_hoadonRowDeleted" msprop:Generator_RowDeletingName="tb_hoadonRowDeleting" msprop:Generator_RowEvArgName="tb_hoadonRowChangeEvent" msprop:Generator_TablePropName="tb_hoadon" msprop:Generator_RowChangedName="tb_hoadonRowChanged" msprop:Generator_RowChangingName="tb_hoadonRowChanging" msprop:Generator_TableClassName="tb_hoadonDataTable" msprop:Generator_RowClassName="tb_hoadonRow" msprop:Generator_TableVarName="tabletb_hoadon" msprop:Generator_UserTableName="tb_hoadon">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mahd" msprop:Generator_ColumnPropNameInRow="mahd" msprop:Generator_ColumnPropNameInTable="mahdColumn" msprop:Generator_ColumnVarNameInTable="columnmahd" msprop:Generator_UserColumnName="mahd">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tenkh" msprop:Generator_ColumnPropNameInRow="tenkh" msprop:Generator_ColumnPropNameInTable="tenkhColumn" msprop:Generator_ColumnVarNameInTable="columntenkh" msprop:Generator_UserColumnName="tenkh" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tennl" msprop:Generator_ColumnPropNameInRow="tennl" msprop:Generator_ColumnPropNameInTable="tennlColumn" msprop:Generator_ColumnVarNameInTable="columntennl" msprop:Generator_UserColumnName="tennl" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ngaylap" msprop:Generator_ColumnPropNameInRow="ngaylap" msprop:Generator_ColumnPropNameInTable="ngaylapColumn" msprop:Generator_ColumnVarNameInTable="columnngaylap" msprop:Generator_UserColumnName="ngaylap" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="makh" msprop:Generator_ColumnPropNameInRow="makh" msprop:Generator_ColumnPropNameInTable="makhColumn" msprop:Generator_ColumnVarNameInTable="columnmakh" msprop:Generator_UserColumnName="makh" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="manv" msprop:Generator_ColumnPropNameInRow="manv" msprop:Generator_ColumnPropNameInTable="manvColumn" msprop:Generator_ColumnVarNameInTable="columnmanv" msprop:Generator_UserColumnName="manv" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sumthanhtien" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="sumthanhtien" msprop:Generator_ColumnPropNameInTable="sumthanhtienColumn" msprop:Generator_ColumnVarNameInTable="columnsumthanhtien" msprop:Generator_UserColumnName="sumthanhtien" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tb_hoadon" />
+      <xs:field xpath="mstns:mahd" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
